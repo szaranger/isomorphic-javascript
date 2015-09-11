@@ -2,7 +2,7 @@
 
 This project serves as either a **very simple** boilerplate to start building an isomorphic application in React.js.
 
-Please see the [walkthrough](http://jmfurlott.com/tutorial-setting-up-a-simple-isomorphic-react-app/) for a more thorough explanation of the code.
+Please see the [walkthrough](http://seanamarasinghe.com/developer/javascript/isophormic-javascript/) for a more thorough explanation of the code.
 
 ## Stack
 
@@ -11,7 +11,6 @@ Please see the [walkthrough](http://jmfurlott.com/tutorial-setting-up-a-simple-i
 - Express
 - react-router
 - Babel
-- Jade
 
 ## Installation instructions
 
