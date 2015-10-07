@@ -11,6 +11,7 @@ Please see the [walkthrough](http://seanamarasinghe.com/developer/javascript/iso
 - Express
 - react-router
 - Babel
+- EJS
 
 ## Installation instructions
 
@@ -22,11 +23,16 @@ Please see the [walkthrough](http://seanamarasinghe.com/developer/javascript/iso
 
 In Windows npm can not yet run operation in parallel so we add in npm-run-all<br />
 Change the start command in package.json to:<br />
-"start": "npm-run-all --parallel watch-js dev-server server",
- ```
- $ npm install
- $ npm install --save-dev npm-run-all
- $ npm start
- ```
 
-When the servers are started, visit `http://localhost:3000` to see a Hello world page.
+```
+"start": "npm-run-all --parallel watch-js dev-server server",
+```
+Now install the packages with the following commands:
+
+```
+$ npm install
+$ npm install --save-dev npm-run-all
+$ npm start
+```
+
+When the servers are started, visit `http://localhost:8080` to see a Hello world page.

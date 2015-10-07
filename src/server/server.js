@@ -5,6 +5,9 @@ const app = express();
 
 import routes from "../shared/routes";
 
+app.set('views', './views');
+app.set('view engine', 'ejs');
+
 app.get('/*', function (req, res) {
   Router.run(routes, req.url, Handler => {
     let content = React.renderToString(<Handler />);
