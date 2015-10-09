@@ -2,7 +2,7 @@
 
 This project serves as either a **very simple** boilerplate to start building an isomorphic application in React.js.
 
-Please see the [walkthrough](http://seanamarasinghe.com/developer/javascript/isophormic-javascript/) for a more thorough explanation of the code.
+Please see the [walkthrough](http://seanamarasinghe.com/developer/javascript/isomorphic-javascript/) for a more thorough explanation of the code.
 
 ## Stack
 
