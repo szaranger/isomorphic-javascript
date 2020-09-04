@@ -27,7 +27,7 @@
     "express": "^4.12.4",
     "node-libs-browser": "^0.5.2",
     "npm-run-all": "^1.2.11",
-    "react": "^0.13.3",
+    "react": "^15.6.2",
     "react-hot-loader": "^1.2.7",
     "react-router": "^0.13.3",
     "webpack": "^1.9.10",
